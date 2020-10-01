@@ -41,8 +41,8 @@ Below documentation serves as installation instruciton for point #B mentioned ab
 Please follow Video Tutorials along installation instruction and proceed to next step when database installation is complete and verified.<br><br>
 <b>Step #2:</b> Signup with Google Firebase<br>
 Please follow Video Tutorials along installation instruction and proceed to next step when database installation is complete and verified.<br><br>
-1. Setup Firebase Sign-in methods (enable Google, Facebook and email signin)<br>
-2. Make sure, Firebase Sign-in method include your domain for autherntication.<br>
+1. Setup Firebase Sign-in methods By just clicking(enable Google, Facebook and email signin)<br>
+2. Make sure, Firebase Sign-in method include your domain for autherntication, If you want to access<br>
 3. Open Firebase > Database > rules <br>
 copy paste following code in rules tab, save and publish.<br><br>
 service cloud.firestore {<br>
